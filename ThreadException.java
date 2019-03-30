@@ -9,7 +9,7 @@ package threaddemo1;
  *
  * @author Dr. Thrax
  */
-public class ThrowException {
+public class ThreadException {
 
     /**
      * @param args the command line arguments
